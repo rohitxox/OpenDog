@@ -1,2 +1,2 @@
 # MechDog
-I have nothing to say yet
+Version 1 of Dynamixel Xl430 motor config.
